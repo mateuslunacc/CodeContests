@@ -1,0 +1,65 @@
+4 5 4
+abcd
+aeiou
+c e
+b i
+a f
+d h
+3 3 9
+abc
+eee
+a e
+e a
+v b
+b x
+e c
+a c
+r q
+e a
+a c
+3 3 9
+abc
+eee
+a e
+e a
+r q
+e a
+a c
+v b
+b x
+e c
+a c
+3 3 9
+abc
+eee
+a c
+e a
+r q
+a c
+e c
+b x
+v b
+e a
+3 3 9
+abc
+aaa
+a c
+e a
+r q
+a c
+e c
+b x
+v b
+e a
+3 3 9
+abc
+bbb
+a e
+e a
+r q
+e a
+a c
+v b
+b x
+e c
+a c
